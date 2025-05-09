@@ -1,6 +1,7 @@
-# 中文情绪分类模型 V6 (TF-IDF+MLP) 及 API
+# 中文情绪分类/情绪识别模型 V6 (TF-IDF+MLP) 及 API
 
 本项目包含一个基于 TF-IDF 特征和 MLP（多层感知器）训练的中文文本情绪分类模型（V6-TFIDF版本），以及一个用于提供预测服务的 Flask API。
+在此特别感谢 https://github.com/yeaso/Chinese-Affective-Computing-Dataset/tree/main CMACD 项目对本开源项目产生的极大推进 没有这个项目 本项目无法落地.
 
 ## 文件结构
 
